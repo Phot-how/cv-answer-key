@@ -1,0 +1,858 @@
+[
+  {
+    "_id": "677cc713e28470ddae6f311b",
+    "gameId": "677c9ac05c7b78e2bfa5435b",
+    "pageId": "677cc77ce28470ddae6f314b",
+    "solution": [
+    {
+      "stepIndex": 0,
+      "action": {
+        "loop": "loop",
+        "actions": [
+          {
+            "stepIndex": 1,
+            "action": "moveRight"
+          }
+        ],
+        "loopIndex": 0,
+        "repeattime": 3
+      }
+    },
+    {
+      "stepIndex": 2,
+      "action": {
+        "loop": "loop",
+        "actions": [
+          {
+            "stepIndex": 3,
+            "action": "moveUp"
+          }
+        ],
+        "loopIndex": 1,
+        "repeattime": 3
+      }
+    },
+    {
+      "stepIndex": 4,
+      "action": "teleport"
+    },
+    {
+      "stepIndex": 5,
+      "action": {
+        "loop": "loop",
+        "actions": [
+          {
+            "stepIndex": 6,
+            "action": "moveDown"
+          }
+        ],
+        "loopIndex": 2,
+        "repeattime": 3
+      }
+    },
+    {
+      "stepIndex": 7,
+      "action": {
+        "loop": "loop",
+        "actions": [
+          {
+            "stepIndex": 8,
+            "action": "moveRight"
+          }
+        ],
+        "loopIndex": 3,
+        "repeattime": 3
+      }
+    },
+    {
+      "stepIndex": 9,
+      "action": "collectTotem"
+    }
+  ],
+    "metadata": {
+      "difficulty": "easy",
+      "hintTemplate": "Try going up {n} times before turning right"
+    }
+  },
+  {
+    "_id": "677cc713e28470ddae6f311b",
+    "gameId": "677c9ac05c7b78e2bfa5435b",
+    "pageId": "677cc7e7e28470ddae6f316c",
+    "solution": [
+    {
+      "stepIndex": 0,
+      "action": {
+        "loop": "loop",
+        "actions": [
+          {
+            "stepIndex": 1,
+            "action": "moveUp"
+          },
+          {
+            "stepIndex": 2,
+            "action": "moveUp"
+          },
+          {
+            "stepIndex": 3,
+            "action": "moveDown"
+          },
+          {
+            "stepIndex": 4,
+            "action": "moveDown"
+          },
+          {
+            "stepIndex": 5,
+            "action": "moveRight"
+          },
+          {
+            "stepIndex": 6,
+            "action": "moveRight"
+          }
+        ],
+        "loopIndex": 0,
+        "repeattime": 2
+      }
+    },
+    {
+      "stepIndex": 7,
+      "action": "moveUp"
+    },
+    {
+      "stepIndex": 8,
+      "action": "teleport"
+    },
+    {
+      "stepIndex": 9,
+      "action": "moveDown"
+    },
+    {
+      "stepIndex": 10,
+      "action": "collectTotem"
+    }
+  ],
+    "metadata": {
+      "difficulty": "easy",
+      "hintTemplate": "Try going up {n} times before turning right"
+    }
+  },
+  {
+    "_id": "677cc713e28470ddae6f311b",
+    "gameId": "677c9ac05c7b78e2bfa5435b",
+    "pageId": "677cc877e28470ddae6f318d",
+    "solution": [
+    {
+      "stepIndex": 0,
+      "action": {
+        "loop": "loop",
+        "actions": [
+          {
+            "stepIndex": 1,
+            "action": "moveDown"
+          },
+          {
+            "stepIndex": 2,
+            "action": "moveDown"
+          },
+          {
+            "stepIndex": 3,
+            "action": "moveLeft"
+          },
+          {
+            "stepIndex": 4,
+            "action": "moveLeft"
+          },
+          {
+            "stepIndex": 5,
+            "action": "moveUp"
+          }
+        ],
+        "loopIndex": 0,
+        "repeattime": 2
+      }
+    },
+    {
+      "stepIndex": 6,
+      "action": "teleport"
+    },
+    {
+      "stepIndex": 7,
+      "action": {
+        "loop": "loop",
+        "actions": [
+          {
+            "stepIndex": 8,
+            "action": "moveDown"
+          },
+          {
+            "stepIndex": 9,
+            "action": "moveLeft"
+          },
+          {
+            "stepIndex": 10,
+            "action": "moveLeft"
+          },
+          {
+            "stepIndex": 11,
+            "action": "moveUp"
+          }
+        ],
+        "loopIndex": 1,
+        "repeattime": 2
+      }
+    },
+    {
+      "stepIndex": 12,
+      "action": {
+        "loop": "loop",
+        "actions": [
+          {
+            "stepIndex": 13,
+            "action": "moveDown"
+          }
+        ],
+        "loopIndex": 2,
+        "repeattime": 3
+      }
+    },
+    {
+      "stepIndex": 14,
+      "action": "collectTotem"
+    }
+  ],
+    "metadata": {
+      "difficulty": "easy",
+      "hintTemplate": "Try going up {n} times before turning right"
+    }
+  },
+  {
+    "_id": "677cc713e28470ddae6f311b",
+    "gameId": "677c9ac05c7b78e2bfa5435b",
+    "pageId": "677cc8eae28470ddae6f31bd",
+    "solution": [
+    {
+      "stepIndex": 0,
+      "action": "moveUp"
+    },
+    {
+      "stepIndex": 1,
+      "action": "teleport"
+    },
+    {
+      "stepIndex": 2,
+      "action": "moveDown"
+    },
+    {
+      "stepIndex": 3,
+      "action": {
+        "loop": "loop",
+        "actions": [
+          {
+            "stepIndex": 4,
+            "action": "moveLeft"
+          }
+        ],
+        "loopIndex": 0,
+        "repeattime": 4
+      }
+    },
+    {
+      "stepIndex": 5,
+      "action": {
+        "loop": "loop",
+        "actions": [
+          {
+            "stepIndex": 6,
+            "action": "moveUp"
+          }
+        ],
+        "loopIndex": 1,
+        "repeattime": 4
+      }
+    },
+    {
+      "stepIndex": 7,
+      "action": "collectTotem"
+    },
+    {
+      "stepIndex": 8,
+      "action": {
+        "loop": "loop",
+        "actions": [
+          {
+            "stepIndex": 9,
+            "action": "moveRight"
+          },
+          {
+            "stepIndex": 10,
+            "action": "moveRight"
+          },
+          {
+            "stepIndex": 11,
+            "action": "collectTotem"
+          }
+        ],
+        "loopIndex": 2,
+        "repeattime": 3
+      }
+    }
+  ],
+    "metadata": {
+      "difficulty": "easy",
+      "hintTemplate": "Try going up {n} times before turning right"
+    }
+  },
+  {
+    "_id": "677cc713e28470ddae6f311b",
+    "gameId": "677c9ac05c7b78e2bfa5435b",
+    "pageId": "677cc981e28470ddae6f31fc",
+    "solution": [
+    {
+      "stepIndex": 0,
+      "action": {
+        "loop": "loop",
+        "actions": [
+          {
+            "stepIndex": 1,
+            "action": "moveUp"
+          },
+          {
+            "stepIndex": 2,
+            "action": "moveUp"
+          },
+          {
+            "stepIndex": 3,
+            "action": "moveUp"
+          },
+          {
+            "stepIndex": 4,
+            "action": "moveDown"
+          },
+          {
+            "stepIndex": 5,
+            "action": "moveRight"
+          },
+          {
+            "stepIndex": 6,
+            "action": "moveRight"
+          }
+        ],
+        "loopIndex": 0,
+        "repeattime": 2
+      }
+    },
+    {
+      "stepIndex": 7,
+      "action": "toggle"
+    },
+    {
+      "stepIndex": 8,
+      "action": {
+        "loop": "loop",
+        "actions": [
+          {
+            "stepIndex": 9,
+            "action": "moveDown"
+          },
+          {
+            "stepIndex": 10,
+            "action": "moveDown"
+          },
+          {
+            "stepIndex": 11,
+            "action": "moveRight"
+          },
+          {
+            "stepIndex": 12,
+            "action": "moveRight"
+          }
+        ],
+        "loopIndex": 1,
+        "repeattime": 2
+      }
+    },
+    {
+      "stepIndex": 13,
+      "action": "moveUp"
+    },
+    {
+      "stepIndex": 14,
+      "action": "teleport"
+    },
+    {
+      "stepIndex": 15,
+      "action": "moveDown"
+    },
+    {
+      "stepIndex": 16,
+      "action": "collectTotem"
+    }
+  ],
+    "metadata": {
+      "difficulty": "easy",
+      "hintTemplate": "Try going up {n} times before turning right"
+    }
+  },
+  {
+    "_id": "677cc713e28470ddae6f311b",
+    "gameId": "677c9ac05c7b78e2bfa5435b",
+    "pageId": "677cca5fe28470ddae6f323b",
+    "solution": [
+    {
+      "stepIndex": 0,
+      "action": {
+        "loop": "loop",
+        "actions": [
+          {
+            "stepIndex": 1,
+            "action": "moveUp"
+          },
+          {
+            "stepIndex": 2,
+            "action": "moveLeft"
+          },
+          {
+            "stepIndex": 3,
+            "action": "moveLeft"
+          },
+          {
+            "stepIndex": 4,
+            "action": "moveDown"
+          }
+        ],
+        "loopIndex": 0,
+        "repeattime": 2
+      }
+    },
+    {
+      "stepIndex": 5,
+      "action": {
+        "loop": "loop",
+        "actions": [
+          {
+            "stepIndex": 6,
+            "action": "moveUp"
+          }
+        ],
+        "loopIndex": 1,
+        "repeattime": 3
+      }
+    },
+    {
+      "stepIndex": 7,
+      "action": "teleport"
+    },
+    {
+      "stepIndex": 8,
+      "action": "moveDown"
+    },
+    {
+      "stepIndex": 9,
+      "action": {
+        "loop": "loop",
+        "actions": [
+          {
+            "stepIndex": 10,
+            "action": "moveRight"
+          }
+        ],
+        "loopIndex": 2,
+        "repeattime": 4
+      }
+    },
+    {
+      "stepIndex": 11,
+      "action": "toggle"
+    },
+    {
+      "stepIndex": 12,
+      "action": {
+        "loop": "loop",
+        "actions": [
+          {
+            "stepIndex": 13,
+            "action": "moveDown"
+          }
+        ],
+        "loopIndex": 3,
+        "repeattime": 4
+      }
+    },
+    {
+      "stepIndex": 14,
+      "action": "collectTotem"
+    }
+  ],
+    "metadata": {
+      "difficulty": "easy",
+      "hintTemplate": "Try going up {n} times before turning right"
+    }
+  },
+  {
+    "_id": "677cc713e28470ddae6f311b",
+    "gameId": "677c9ac05c7b78e2bfa5435b",
+    "pageId": "677ccb1ce28470ddae6f3260",
+    "solution": [
+    {
+      "stepIndex": 0,
+      "action": {
+        "loop": "loop",
+        "actions": [
+          {
+            "stepIndex": 1,
+            "action": "moveUp"
+          }
+        ],
+        "loopIndex": 0,
+        "repeattime": 4
+      }
+    },
+    {
+      "stepIndex": 2,
+      "action": "teleport"
+    },
+    {
+      "stepIndex": 3,
+      "action": {
+        "loop": "loop",
+        "actions": [
+          {
+            "stepIndex": 4,
+            "action": "moveDown"
+          },
+          {
+            "stepIndex": 5,
+            "action": "moveRight"
+          },
+          {
+            "stepIndex": 6,
+            "action": "moveRight"
+          },
+          {
+            "stepIndex": 7,
+            "action": "moveUp"
+          }
+        ],
+        "loopIndex": 1,
+        "repeattime": 2
+      }
+    },
+    {
+      "stepIndex": 8,
+      "action": "toggle"
+    },
+    {
+      "stepIndex": 9,
+      "action": "moveUp"
+    },
+    {
+      "stepIndex": 10,
+      "action": "moveUp"
+    },
+    {
+      "stepIndex": 11,
+      "action": "moveLeft"
+    },
+    {
+      "stepIndex": 12,
+      "action": "moveLeft"
+    },
+    {
+      "stepIndex": 13,
+      "action": "collectKey"
+    },
+    {
+      "stepIndex": 14,
+      "action": "moveUp"
+    }
+  ],
+    "metadata": {
+      "difficulty": "easy",
+      "hintTemplate": "Try going up {n} times before turning right"
+    }
+  },
+  {
+    "_id": "677cc713e28470ddae6f311b",
+    "gameId": "677c9ac05c7b78e2bfa5435b",
+    "pageId": "677ccbf1e28470ddae6f3281",
+    "solution": [
+    {
+      "stepIndex": 0,
+      "action": {
+        "loop": "loop",
+        "actions": [
+          {
+            "stepIndex": 1,
+            "action": "moveUp"
+          },
+          {
+            "stepIndex": 2,
+            "action": "moveRight"
+          }
+        ],
+        "loopIndex": 0,
+        "repeattime": 6
+      }
+    },
+    {
+      "stepIndex": 3,
+      "action": "moveUp"
+    },
+    {
+      "stepIndex": 4,
+      "action": "teleport"
+    },
+    {
+      "stepIndex": 5,
+      "action": "moveDown"
+    },
+    {
+      "stepIndex": 6,
+      "action": "moveDown"
+    },
+    {
+      "stepIndex": 7,
+      "action": "toggle"
+    },
+    {
+      "stepIndex": 8,
+      "action": {
+        "loop": "loop",
+        "actions": [
+          {
+            "stepIndex": 9,
+            "action": "moveLeft"
+          }
+        ],
+        "loopIndex": 1,
+        "repeattime": 3
+      }
+    },
+    {
+      "stepIndex": 10,
+      "action": "collectKey"
+    },
+    {
+      "stepIndex": 11,
+      "action": {
+        "loop": "loop",
+        "actions": [
+          {
+            "stepIndex": 12,
+            "action": "moveUp"
+          },
+          {
+            "stepIndex": 13,
+            "action": "moveUp"
+          },
+          {
+            "stepIndex": 14,
+            "action": "moveLeft"
+          },
+          {
+            "stepIndex": 15,
+            "action": "moveLeft"
+          }
+        ],
+        "loopIndex": 2,
+        "repeattime": 2
+      }
+    },
+    {
+      "stepIndex": 16,
+      "action": "moveUp"
+    }
+  ],
+    "metadata": {
+      "difficulty": "easy",
+      "hintTemplate": "Try going up {n} times before turning right"
+    }
+  },
+  {
+    "_id": "677cc713e28470ddae6f311b",
+    "gameId": "677c9ac05c7b78e2bfa5435b",
+    "pageId": "677cccf5e28470ddae6f32a2",
+    "solution": [
+    {
+      "stepIndex": 0,
+      "action": {
+        "loop": "loop",
+        "actions": [
+          {
+            "stepIndex": 1,
+            "action": "moveDown"
+          },
+          {
+            "stepIndex": 2,
+            "action": "moveDown"
+          },
+          {
+            "stepIndex": 3,
+            "action": "moveDown"
+          },
+          {
+            "stepIndex": 4,
+            "action": "moveUp"
+          },
+          {
+            "stepIndex": 5,
+            "action": "moveUp"
+          },
+          {
+            "stepIndex": 6,
+            "action": "moveLeft"
+          },
+          {
+            "stepIndex": 7,
+            "action": "moveLeft"
+          }
+        ],
+        "loopIndex": 0,
+        "repeattime": 3
+      }
+    },
+    {
+      "stepIndex": 8,
+      "action": "toggle"
+    },
+    {
+      "stepIndex": 9,
+      "action": "moveUp"
+    },
+    {
+      "stepIndex": 10,
+      "action": "teleport"
+    },
+    {
+      "stepIndex": 11,
+      "action": {
+        "loop": "loop",
+        "actions": [
+          {
+            "stepIndex": 12,
+            "action": "moveDown"
+          }
+        ],
+        "loopIndex": 1,
+        "repeattime": 6
+      }
+    },
+    {
+      "stepIndex": 13,
+      "action": "collectKey"
+    },
+    {
+      "stepIndex": 14,
+      "action": "moveLeft"
+    },
+    {
+      "stepIndex": 15,
+      "action": "moveLeft"
+    },
+    {
+      "stepIndex": 16,
+      "action": {
+        "loop": "loop",
+        "actions": [
+          {
+            "stepIndex": 17,
+            "action": "moveUp"
+          }
+        ],
+        "loopIndex": 2,
+        "repeattime": 6
+      }
+    }
+  ],
+    "metadata": {
+      "difficulty": "easy",
+      "hintTemplate": "Try going up {n} times before turning right"
+    }
+  },
+  {
+    "_id": "677cc713e28470ddae6f311b",
+    "gameId": "677c9ac05c7b78e2bfa5435b",
+    "pageId": "677ccdb4e28470ddae6f32e2",
+    "solution": [
+    {
+      "stepIndex": 0,
+      "action": {
+        "loop": "loop",
+        "actions": [
+          {
+            "stepIndex": 1,
+            "action": "moveRight"
+          },
+          {
+            "stepIndex": 2,
+            "action": "moveRight"
+          },
+          {
+            "stepIndex": 3,
+            "action": "moveDown"
+          },
+          {
+            "stepIndex": 4,
+            "action": "collectTotem"
+          },
+          {
+            "stepIndex": 5,
+            "action": "moveUp"
+          },
+          {
+            "stepIndex": 6,
+            "action": "moveUp"
+          },
+          {
+            "stepIndex": 7,
+            "action": "moveDown"
+          }
+        ],
+        "loopIndex": 0,
+        "repeattime": 3
+      }
+    },
+    {
+      "stepIndex": 8,
+      "action": "teleport"
+    },
+    {
+      "stepIndex": 9,
+      "action": "moveDown"
+    },
+    {
+      "stepIndex": 10,
+      "action": "moveDown"
+    },
+    {
+      "stepIndex": 11,
+      "action": "toggle"
+    },
+    {
+      "stepIndex": 12,
+      "action": {
+        "loop": "loop",
+        "actions": [
+          {
+            "stepIndex": 13,
+            "action": "moveRight"
+          }
+        ],
+        "loopIndex": 1,
+        "repeattime": 4
+      }
+    },
+    {
+      "stepIndex": 14,
+      "action": "collectKey"
+    },
+    {
+      "stepIndex": 15,
+      "action": "moveUp"
+    }
+  ],
+    "metadata": {
+      "difficulty": "easy",
+      "hintTemplate": "Try going up {n} times before turning right"
+    }
+  }
+]

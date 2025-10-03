@@ -1,0 +1,497 @@
+[
+  {
+    "_id": "672dae33ba00f5878876f22f",
+    "gameId": "672dae30ba00f5878876f1b8",
+    "pageId": "672dae31ba00f5878876f1d1",
+    "solution": [
+    {
+      "stepIndex": 0,
+      "action": {
+        "loop": "loop",
+        "actions": [
+          {
+            "stepIndex": 1,
+            "action": "moveRight"
+          }
+        ],
+        "loopIndex": 0,
+        "repeattime": 4
+      }
+    }
+  ],  
+    "metadata": {
+      "difficulty": "easy",
+      "hintTemplate": "Try going up {n} times before turning right"
+    }
+  },
+  {
+    "_id": "672dae33ba00f5878876f22f",
+    "gameId": "672dae30ba00f5878876f1b8",
+    "pageId": "672dae31ba00f5878876f1d3",
+    "solution": [
+    {
+      "stepIndex": 0,
+      "action": {
+        "loop": "loop",
+        "actions": [
+          {
+            "stepIndex": 1,
+            "action": "moveDown"
+          }
+        ],
+        "loopIndex": 0,
+        "repeattime": 5
+      }
+    }
+  ],
+    "metadata": {
+      "difficulty": "easy",
+      "hintTemplate": "Try going up {n} times before turning right"
+    }
+  },
+  {
+    "_id": "672dae33ba00f5878876f22f",
+    "gameId": "672dae30ba00f5878876f1b8",
+    "pageId": "672dae31ba00f5878876f1d5",
+    "solution": [
+    {
+      "stepIndex": 0,
+      "action": {
+        "loop": "loop",
+        "actions": [
+          {
+            "stepIndex": 1,
+            "action": "moveUp"
+          }
+        ],
+        "loopIndex": 0,
+        "repeattime": 4
+      }
+    },
+    {
+      "stepIndex": 2,
+      "action": {
+        "loop": "loop",
+        "actions": [
+          {
+            "stepIndex": 3,
+            "action": "moveRight"
+          }
+        ],
+        "loopIndex": 1,
+        "repeattime": 4
+      }
+    }
+  ],
+    "metadata": {
+      "difficulty": "easy",
+      "hintTemplate": "Try going up {n} times before turning right"
+    }
+  },
+  {
+    "_id": "672dae33ba00f5878876f22f",
+    "gameId": "672dae30ba00f5878876f1b8",
+    "pageId": "672dae31ba00f5878876f1d7",
+    "solution": [
+    {
+      "stepIndex": 0,
+      "action": {
+        "loop": "loop",
+        "actions": [
+          {
+            "stepIndex": 1,
+            "action": "moveLeft"
+          }
+        ],
+        "loopIndex": 0,
+        "repeattime": 5
+      }
+    },
+    {
+      "stepIndex": 2,
+      "action": {
+        "loop": "loop",
+        "actions": [
+          {
+            "stepIndex": 3,
+            "action": "moveUp"
+          }
+        ],
+        "loopIndex": 1,
+        "repeattime": 5
+      }
+    }
+  ],
+    "metadata": {
+      "difficulty": "easy",
+      "hintTemplate": "Try going up {n} times before turning right"
+    }
+  },
+  {
+    "_id": "672dae33ba00f5878876f22f",
+    "gameId": "672dae30ba00f5878876f1b8",
+    "pageId": "672dae31ba00f5878876f1d9",
+    "solution": [
+    {
+      "stepIndex": 0,
+      "action": {
+        "loop": "loop",
+        "actions": [
+          {
+            "stepIndex": 1,
+            "action": "moveLeft"
+          }
+        ],
+        "loopIndex": 0,
+        "repeattime": 3
+      }
+    },
+    {
+      "stepIndex": 2,
+      "action": {
+        "loop": "loop",
+        "actions": [
+          {
+            "stepIndex": 3,
+            "action": "moveRight"
+          }
+        ],
+        "loopIndex": 1,
+        "repeattime": 6
+      }
+    }
+  ],
+    "metadata": {
+      "difficulty": "easy",
+      "hintTemplate": "Try going up {n} times before turning right"
+    }
+  },
+  {
+    "_id": "672dae33ba00f5878876f22f",
+    "gameId": "672dae30ba00f5878876f1b8",
+    "pageId": "672dae31ba00f5878876f1db",
+    "solution": [
+    {
+      "stepIndex": 0,
+      "action": {
+        "loop": "loop",
+        "actions": [
+          {
+            "stepIndex": 1,
+            "action": "moveRight"
+          }
+        ],
+        "loopIndex": 0,
+        "repeattime": 2
+      }
+    },
+    {
+      "stepIndex": 2,
+      "action": {
+        "loop": "loop",
+        "actions": [
+          {
+            "stepIndex": 3,
+            "action": "moveDown"
+          }
+        ],
+        "loopIndex": 1,
+        "repeattime": 2
+      }
+    }
+  ],
+    "metadata": {
+      "difficulty": "easy",
+      "hintTemplate": "Try going up {n} times before turning right"
+    }
+  },
+  {
+    "_id": "672dae33ba00f5878876f22f",
+    "gameId": "672dae30ba00f5878876f1b8",
+    "pageId": "672dae31ba00f5878876f1dd",
+    "solution": [
+    {
+      "stepIndex": 0,
+      "action": {
+        "loop": "loop",
+        "actions": [
+          {
+            "stepIndex": 1,
+            "action": "moveDown"
+          }
+        ],
+        "loopIndex": 0,
+        "repeattime": 3
+      }
+    },
+    {
+      "stepIndex": 2,
+      "action": {
+        "loop": "loop",
+        "actions": [
+          {
+            "stepIndex": 3,
+            "action": "moveRight"
+          }
+        ],
+        "loopIndex": 1,
+        "repeattime": 3
+      }
+    }
+  ],
+    "metadata": {
+      "difficulty": "easy",
+      "hintTemplate": "Try going up {n} times before turning right"
+    }
+  },
+  {
+    "_id": "672dae33ba00f5878876f22f",
+    "gameId": "672dae30ba00f5878876f1b8",
+    "pageId": "672dae31ba00f5878876f1df",
+    "solution": [
+    {
+      "stepIndex": 0,
+      "action": {
+        "loop": "loop",
+        "actions": [
+          {
+            "stepIndex": 1,
+            "action": "moveRight"
+          }
+        ],
+        "loopIndex": 0,
+        "repeattime": 4
+      }
+    },
+    {
+      "stepIndex": 2,
+      "action": {
+        "loop": "loop",
+        "actions": [
+          {
+            "stepIndex": 3,
+            "action": "moveUp"
+          }
+        ],
+        "loopIndex": 1,
+        "repeattime": 4
+      }
+    },
+    {
+      "stepIndex": 4,
+      "action": {
+        "loop": "loop",
+        "actions": [
+          {
+            "stepIndex": 5,
+            "action": "moveLeft"
+          }
+        ],
+        "loopIndex": 2,
+        "repeattime": 4
+      }
+    }
+  ],
+    "metadata": {
+      "difficulty": "easy",
+      "hintTemplate": "Try going up {n} times before turning right"
+    }
+  },
+  {
+    "_id": "672dae33ba00f5878876f22f",
+    "gameId": "672dae30ba00f5878876f1b8",
+    "pageId": "672dae31ba00f5878876f1e1",
+    "solution": [
+    {
+      "stepIndex": 0,
+      "action": {
+        "loop": "loop",
+        "actions": [
+          {
+            "stepIndex": 1,
+            "action": "moveDown"
+          },
+          {
+            "stepIndex": 2,
+            "action": "moveLeft"
+          }
+        ],
+        "loopIndex": 0,
+        "repeattime": 3
+      }
+    }
+  ],
+    "metadata": {
+      "difficulty": "easy",
+      "hintTemplate": "Try going up {n} times before turning right"
+    }
+  },
+  {
+    "_id": "672dae33ba00f5878876f22f",
+    "gameId": "672dae30ba00f5878876f1b8",
+    "pageId": "672dae32ba00f5878876f1e3",
+    "solution": [
+    {
+      "stepIndex": 0,
+      "action": {
+        "loop": "loop",
+        "actions": [
+          {
+            "stepIndex": 1,
+            "action": "moveRight"
+          },
+          {
+            "stepIndex": 2,
+            "action": "moveRight"
+          },
+          {
+            "stepIndex": 3,
+            "action": "moveUp"
+          },
+          {
+            "stepIndex": 4,
+            "action": "moveUp"
+          }
+        ],
+        "loopIndex": 0,
+        "repeattime": 2
+      }
+    }
+  ],
+    "metadata": {
+      "difficulty": "easy",
+      "hintTemplate": "Try going up {n} times before turning right"
+    }
+  },
+  {
+    "_id": "672dae33ba00f5878876f22f",
+    "gameId": "672dae30ba00f5878876f1b8",
+    "pageId": "672dae32ba00f5878876f1e5",
+    "solution": [
+    {
+      "stepIndex": 0,
+      "action": {
+        "loop": "loop",
+        "actions": [
+          {
+            "stepIndex": 1,
+            "action": "moveDown"
+          },
+          {
+            "stepIndex": 2,
+            "action": "moveDown"
+          },
+          {
+            "stepIndex": 3,
+            "action": "moveLeft"
+          },
+          {
+            "stepIndex": 4,
+            "action": "moveLeft"
+          }
+        ],
+        "loopIndex": 0,
+        "repeattime": 2
+      }
+    }
+  ],
+    "metadata": {
+      "difficulty": "easy",
+      "hintTemplate": "Try going up {n} times before turning right"
+    }
+  },
+  {
+    "_id": "672dae33ba00f5878876f22f",
+    "gameId": "672dae30ba00f5878876f1b8",
+    "pageId": "672dae32ba00f5878876f1e7",
+    "solution": [
+    {
+      "stepIndex": 0,
+      "action": {
+        "loop": "loop",
+        "actions": [
+          {
+            "stepIndex": 1,
+            "action": "moveDown"
+          },
+          {
+            "stepIndex": 2,
+            "action": "moveLeft"
+          }
+        ],
+        "loopIndex": 0,
+        "repeattime": 3
+      }
+    },
+    {
+      "stepIndex": 3,
+      "action": {
+        "loop": "loop",
+        "actions": [
+          {
+            "stepIndex": 4,
+            "action": "moveDown"
+          },
+          {
+            "stepIndex": 5,
+            "action": "moveRight"
+          }
+        ],
+        "loopIndex": 1,
+        "repeattime": 2
+      }
+    }
+  ],
+    "metadata": {
+      "difficulty": "easy",
+      "hintTemplate": "Try going up {n} times before turning right"
+    }
+  },
+  {
+    "_id": "672dae33ba00f5878876f22f",
+    "gameId": "672dae30ba00f5878876f1b8",
+    "pageId": "672dae32ba00f5878876f1e9",
+    "solution": [
+    {
+      "stepIndex": 0,
+      "action": {
+        "loop": "loop",
+        "actions": [
+          {
+            "stepIndex": 1,
+            "action": "moveUp"
+          },
+          {
+            "stepIndex": 2,
+            "action": "moveRight"
+          }
+        ],
+        "loopIndex": 0,
+        "repeattime": 3
+      }
+    },
+    {
+      "stepIndex": 3,
+      "action": {
+        "loop": "loop",
+        "actions": [
+          {
+            "stepIndex": 4,
+            "action": "moveRight"
+          },
+          {
+            "stepIndex": 5,
+            "action": "moveDown"
+          }
+        ],
+        "loopIndex": 1,
+        "repeattime": 4
+      }
+    }
+  ],
+    "metadata": {
+      "difficulty": "easy",
+      "hintTemplate": "Try going up {n} times before turning right"
+    }
+  }
+]
