@@ -1,0 +1,497 @@
+
+[
+    {
+        "_id": "6747227c50911c2c25e0feb2",
+        "gameId": "6747227850911c2c25e0fe41",
+        "pageId": "6747227950911c2c25e0fe5a",
+        "solution": [
+    {
+      "stepIndex": 0,
+      "action": "move_forward",
+      "repeattime": 1,
+      "next": {
+        "stepIndex": 1,
+        "action": "teleport",
+        "next": {
+          "stepIndex": 2,
+          "action": "move_forward",
+          "repeattime": 2
+        }
+      }
+    }
+  ], 
+        "metadata": {
+            "difficulty": "easy",
+            "hintTemplate": "Try going up {n} times before turning right"
+        }
+    },
+    {
+        "_id": "6747227c50911c2c25e0feb2",
+        "gameId": "6747227850911c2c25e0fe41",
+        "pageId": "6747227950911c2c25e0fe5c",
+        "solution": [
+    {
+      "stepIndex": 0,
+      "action": "move_forward",
+      "repeattime": 2,
+      "next": {
+        "stepIndex": 1,
+        "action": "teleport",
+        "next": {
+          "stepIndex": 2,
+          "action": "move_forward",
+          "repeattime": 3
+        }
+      }
+    }
+  ],
+        "metadata": {
+            "difficulty": "easy",
+            "hintTemplate": "Try going up {n} times before turning right"
+        }
+    },
+    {
+        "_id": "6747227c50911c2c25e0feb2",
+        "gameId": "6747227850911c2c25e0fe41",
+        "pageId": "6747227a50911c2c25e0fe5e",
+        "solution": [
+    {
+      "stepIndex": 0,
+      "action": "move_forward",
+      "repeattime": 3,
+      "next": {
+        "stepIndex": 1,
+        "action": "turn_left",
+        "next": {
+          "stepIndex": 2,
+          "action": "move_forward",
+          "repeattime": 2,
+          "next": {
+            "stepIndex": 3,
+            "action": "teleport",
+            "next": {
+              "stepIndex": 4,
+              "action": "move_forward",
+              "repeattime": 2,
+              "next": {
+                "stepIndex": 5,
+                "action": "turn_right",
+                "next": {
+                  "stepIndex": 6,
+                  "action": "move_forward",
+                  "repeattime": 2
+                }
+              }
+            }
+          }
+        }
+      }
+    }
+  ],
+        "metadata": {
+            "difficulty": "easy",
+            "hintTemplate": "Try going up {n} times before turning right"
+        }
+    },
+    {
+        "_id": "6747227c50911c2c25e0feb2",
+        "gameId": "6747227850911c2c25e0fe41",
+        "pageId": "6747227a50911c2c25e0fe60",
+        "solution":  [
+    {
+      "stepIndex": 0,
+      "action": "move_forward",
+      "repeattime": 2,
+      "next": {
+        "stepIndex": 1,
+        "action": "teleport",
+        "next": {
+          "stepIndex": 2,
+          "action": "move_forward",
+          "repeattime": 2,
+          "next": {
+            "stepIndex": 3,
+            "action": "collect_diamond"
+          }
+        }
+      }
+    }
+  ],
+        "metadata": {
+            "difficulty": "easy",
+            "hintTemplate": "Try going up {n} times before turning right"
+        }
+    },
+    {
+        "_id": "6747227c50911c2c25e0feb2",
+        "gameId": "6747227850911c2c25e0fe41",
+        "pageId": "6747227a50911c2c25e0fe62",
+        "solution": [
+    {
+      "stepIndex": 0,
+      "action": "move_forward",
+      "repeattime": 2,
+      "next": {
+        "stepIndex": 1,
+        "action": "teleport",
+        "next": {
+          "stepIndex": 2,
+          "action": "move_forward",
+          "repeattime": 1,
+          "next": {
+            "stepIndex": 3,
+            "action": "turn_right",
+            "next": {
+              "stepIndex": 4,
+              "action": "move_forward",
+              "repeattime": 3,
+              "next": {
+                "stepIndex": 5,
+                "action": "collect_diamond"
+              }
+            }
+          }
+        }
+      }
+    }
+  ],
+        "metadata": {
+            "difficulty": "easy",
+            "hintTemplate": "Try going up {n} times before turning right"
+        }
+    },
+    {
+        "_id": "6747227c50911c2c25e0feb2",
+        "gameId": "6747227850911c2c25e0fe41",
+        "pageId": "6747227a50911c2c25e0fe64",
+        "solution": [
+    {
+      "stepIndex": 0,
+      "action": "move_backward",
+      "repeattime": 2,
+      "next": {
+        "stepIndex": 1,
+        "action": "collect_diamond",
+        "next": {
+          "stepIndex": 2,
+          "action": "move_forward",
+          "repeattime": 4,
+          "next": {
+            "stepIndex": 3,
+            "action": "teleport",
+            "next": {
+              "stepIndex": 4,
+              "action": "move_forward",
+              "repeattime": 3,
+              "next": {
+                "stepIndex": 5,
+                "action": "collect_diamond"
+              }
+            }
+          }
+        }
+      }
+    }
+  ],
+        "metadata": {
+            "difficulty": "easy",
+            "hintTemplate": "Try going up {n} times before turning right"
+        }
+    },
+    {
+        "_id": "6747227c50911c2c25e0feb2",
+        "gameId": "6747227850911c2c25e0fe41",
+        "pageId": "6747227a50911c2c25e0fe66",
+        "solution": [
+    {
+      "stepIndex": 0,
+      "action": "move_forward",
+      "repeattime": 6,
+      "next": {
+        "stepIndex": 1,
+        "action": "teleport",
+        "next": {
+          "stepIndex": 2,
+          "action": "move_forward",
+          "repeattime": 4,
+          "next": {
+            "stepIndex": 3,
+            "action": "collect_diamond",
+            "next": {
+              "stepIndex": 4,
+              "action": "turn_right",
+              "next": {
+                "stepIndex": 5,
+                "action": "move_forward",
+                "repeattime": 1,
+                "next": {
+                  "stepIndex": 6,
+                  "action": "collect_diamond"
+                }
+              }
+            }
+          }
+        }
+      }
+    }
+  ],
+        "metadata": {
+            "difficulty": "easy",
+            "hintTemplate": "Try going up {n} times before turning right"
+        }
+    },
+    {
+        "_id": "6747227c50911c2c25e0feb2",
+        "gameId": "6747227850911c2c25e0fe41",
+        "pageId": "6747227a50911c2c25e0fe68",
+        "solution": [
+    {
+      "stepIndex": 0,
+      "action": "move_backward",
+      "repeattime": 2,
+      "next": {
+        "stepIndex": 1,
+        "action": "collect_diamond",
+        "next": {
+          "stepIndex": 2,
+          "action": "move_forward",
+          "repeattime": 4,
+          "next": {
+            "stepIndex": 3,
+            "action": "teleport",
+            "next": {
+              "stepIndex": 4,
+              "action": "move_forward",
+              "repeattime": 2,
+              "next": {
+                "stepIndex": 5,
+                "action": "collect_diamond",
+                "next": {
+                  "stepIndex": 6,
+                  "action": "turn_right",
+                  "next": {
+                    "stepIndex": 7,
+                    "action": "move_forward",
+                    "repeattime": 2,
+                    "next": {
+                      "stepIndex": 8,
+                      "action": "collect_diamond"
+                    }
+                  }
+                }
+              }
+            }
+          }
+        }
+      }
+    }
+  ],
+        "metadata": {
+            "difficulty": "easy",
+            "hintTemplate": "Try going up {n} times before turning right"
+        }
+    },
+    {
+        "_id": "6747227c50911c2c25e0feb2",
+        "gameId": "6747227850911c2c25e0fe41",
+        "pageId": "6747227a50911c2c25e0fe6a",
+        "solution": [
+    {
+      "stepIndex": 0,
+      "action": "move_forward",
+      "repeattime": 2,
+      "next": {
+        "stepIndex": 1,
+        "action": "teleport",
+        "next": {
+          "stepIndex": 2,
+          "action": "move_forward",
+          "repeattime": 1,
+          "next": {
+            "stepIndex": 3,
+            "action": "turn_right",
+            "next": {
+              "stepIndex": 4,
+              "action": "move_forward",
+              "repeattime": 4,
+              "next": {
+                "stepIndex": 5,
+                "action": "turn_right",
+                "next": {
+                  "stepIndex": 6,
+                  "action": "move_forward",
+                  "repeattime": 1,
+                  "next": {
+                    "stepIndex": 7,
+                    "action": "teleport",
+                    "next": {
+                      "stepIndex": 8,
+                      "action": "move_forward",
+                      "repeattime": 2,
+                      "next": {
+                        "stepIndex": 9,
+                        "action": "collect_diamond"
+                      }
+                    }
+                  }
+                }
+              }
+            }
+          }
+        }
+      }
+    }
+  ],
+        "metadata": {
+            "difficulty": "easy",
+            "hintTemplate": "Try going up {n} times before turning right"
+        }
+    },
+    {
+        "_id": "6747227c50911c2c25e0feb2",
+        "gameId": "6747227850911c2c25e0fe41",
+        "pageId": "6747227a50911c2c25e0fe6c",
+        "solution": [
+    {
+      "stepIndex": 0,
+      "action": "move_backward",
+      "repeattime": 1,
+      "next": {
+        "stepIndex": 1,
+        "action": "teleport",
+        "next": {
+          "stepIndex": 2,
+          "action": "move_forward",
+          "repeattime": 1,
+          "next": {
+            "stepIndex": 3,
+            "action": "turn_right",
+            "next": {
+              "stepIndex": 4,
+              "action": "move_forward",
+              "repeattime": 3,
+              "next": {
+                "stepIndex": 5,
+                "action": "collect_diamond",
+                "next": {
+                  "stepIndex": 6,
+                  "action": "move_forward",
+                  "repeattime": 2,
+                  "next": {
+                    "stepIndex": 7,
+                    "action": "turn_right",
+                    "next": {
+                      "stepIndex": 8,
+                      "action": "move_forward",
+                      "repeattime": 1,
+                      "next": {
+                        "stepIndex": 9,
+                        "action": "teleport",
+                        "next": {
+                          "stepIndex": 10,
+                          "action": "move_forward",
+                          "repeattime": 2,
+                          "next": {
+                            "stepIndex": 11,
+                            "action": "collect_diamond"
+                          }
+                        }
+                      }
+                    }
+                  }
+                }
+              }
+            }
+          }
+        }
+      }
+    }
+  ],
+        "metadata": {
+            "difficulty": "easy",
+            "hintTemplate": "Try going up {n} times before turning right"
+        }
+    },
+    {
+        "_id": "6747227c50911c2c25e0feb2",
+        "gameId": "6747227850911c2c25e0fe41",
+        "pageId": "6747227a50911c2c25e0fe6e",
+        "solution": [
+    {
+      "stepIndex": 0,
+      "action": "move_forward",
+      "repeattime": 2,
+      "next": {
+        "stepIndex": 1,
+        "action": "collect_diamond",
+        "next": {
+          "stepIndex": 2,
+          "action": "turn_left",
+          "next": {
+            "stepIndex": 3,
+            "action": "move_forward",
+            "repeattime": 2,
+            "next": {
+              "stepIndex": 4,
+              "action": "teleport",
+              "next": {
+                "stepIndex": 5,
+                "action": "move_forward",
+                "repeattime": 2,
+                "next": {
+                  "stepIndex": 6,
+                  "action": "turn_right",
+                  "next": {
+                    "stepIndex": 7,
+                    "action": "move_forward",
+                    "repeattime": 2,
+                    "next": {
+                      "stepIndex": 8,
+                      "action": "collect_diamond",
+                      "next": {
+                        "stepIndex": 9,
+                        "action": "move_forward",
+                        "repeattime": 3,
+                        "next": {
+                          "stepIndex": 10,
+                          "action": "turn_right",
+                          "next": {
+                            "stepIndex": 11,
+                            "action": "move_forward",
+                            "repeattime": 2,
+                            "next": {
+                              "stepIndex": 12,
+                              "action": "teleport",
+                              "next": {
+                                "stepIndex": 13,
+                                "action": "move_forward",
+                                "repeattime": 2,
+                                "next": {
+                                  "stepIndex": 14,
+                                  "action": "collect_diamond"
+                                }
+                              }
+                            }
+                          }
+                        }
+                      }
+                    }
+                  }
+                }
+              }
+            }
+          }
+        }
+      }
+    }
+  ],
+        "metadata": {
+            "difficulty": "easy",
+            "hintTemplate": "Try going up {n} times before turning right"
+        }
+    }
+  
+]
+
+
+
