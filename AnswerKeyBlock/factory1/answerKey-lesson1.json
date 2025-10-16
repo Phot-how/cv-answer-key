@@ -1,0 +1,288 @@
+[
+  {
+    "_id": "68185a5664ee841815c6cd1c",
+    "gameId": "68185a3f64ee841815c6cd0b",
+    "pageId": "68187dd2ac3c080f34e33433",
+    "solution": [
+    {
+      "stepIndex": 0,
+      "action": "add_color",
+      "fields": "red",
+      "next": {
+        "stepIndex": 1,
+        "action": "paint"
+      }
+    }
+  ],
+    "metadata": {
+      "difficulty": "easy",
+      "hintTemplate": "Try going up {n} times before turning right"
+    }
+  },
+  {
+    "_id": "68185a5664ee841815c6cd1c",
+    "gameId": "68185a3f64ee841815c6cd0b",
+    "pageId": "683960245f7215f1a10c53a3",
+    "solution": [
+    {
+      "stepIndex": 0,
+      "action": "add_color",
+      "fields": "yellow",
+      "next": {
+        "stepIndex": 1,
+        "action": "paint"
+      }
+    }
+  ],
+    "metadata": {
+      "difficulty": "easy",
+      "hintTemplate": "Try going up {n} times before turning right"
+    }
+  },
+  {
+    "_id": "68185a5664ee841815c6cd1c",
+    "gameId": "68185a3f64ee841815c6cd0b",
+    "pageId": "683979165f7215f1a10c7bfb",
+    "solution": [
+    {
+      "stepIndex": 0,
+      "action": "add_color",
+      "fields": "blue",
+      "next": {
+        "stepIndex": 1,
+        "action": "paint"
+      }
+    }
+  ],
+    "metadata": {
+      "difficulty": "easy",
+      "hintTemplate": "Try going up {n} times before turning right"
+    }
+  },
+  {
+    "_id": "68185a5664ee841815c6cd1c",
+    "gameId": "68185a3f64ee841815c6cd0b",
+    "pageId": "683979265f7215f1a10c7c0e",
+    "solution": [
+    {
+      "stepIndex": 0,
+      "action": "add_color",
+      "fields": "yellow",
+      "next": {
+        "stepIndex": 1,
+        "action": "paint"
+      }
+    }
+  ],
+    "metadata": {
+      "difficulty": "easy",
+      "hintTemplate": "Try going up {n} times before turning right"
+    }
+  },
+  {
+    "_id": "68185a5664ee841815c6cd1c",
+    "gameId": "68185a3f64ee841815c6cd0b",
+    "pageId": "683979ec5f7215f1a10c7c6e",
+    "solution": [
+    {
+      "stepIndex": 0,
+      "action": "add_color",
+      "fields": "red",
+      "next": {
+        "stepIndex": 1,
+        "action": "add_color",
+        "fields": "yellow",
+        "next": {
+          "stepIndex": 2,
+          "action": "paint"
+        }
+      }
+    }
+  ],
+    "metadata": {
+      "difficulty": "easy",
+      "hintTemplate": "Try going up {n} times before turning right"
+    }
+  },
+  {
+    "_id": "68185a5664ee841815c6cd1c",
+    "gameId": "68185a3f64ee841815c6cd0b",
+    "pageId": "683d355ca23d311880ddcec1",
+    "solution": [
+    {
+      "stepIndex": 0,
+      "action": "add_color",
+      "fields": "red",
+      "next": {
+        "stepIndex": 1,
+        "action": "add_color",
+        "fields": "yellow",
+        "next": {
+          "stepIndex": 2,
+          "action": "paint"
+        }
+      }
+    }
+  ],
+    "metadata": {
+      "difficulty": "easy",
+      "hintTemplate": "Try going up {n} times before turning right"
+    }
+  },
+  {
+    "_id": "68185a5664ee841815c6cd1c",
+    "gameId": "68185a3f64ee841815c6cd0b",
+    "pageId": "6851480d230afff1af7aa5b8",
+    "solution": [
+    {
+      "stepIndex": 0,
+      "action": "cv_if_toy",
+      "fields": "airplane",
+      "input": {
+        "Do": {
+          "stepIndex": 1,
+          "action": "add_color",
+          "fields": "red"
+        }
+      },
+      "next": {
+        "stepIndex": 2,
+        "action": "cv_if_toy",
+        "fields": "rocket",
+        "input": {
+          "Do": {
+            "stepIndex": 3,
+            "action": "add_color",
+            "fields": "yellow"
+          }
+        },
+        "next": {
+          "stepIndex": 4,
+          "action": "paint"
+        }
+      }
+    }
+  ],
+    "metadata": {
+      "difficulty": "easy",
+      "hintTemplate": "Try going up {n} times before turning right"
+    }
+  },
+  {
+    "_id": "68185a5664ee841815c6cd1c",
+    "gameId": "68185a3f64ee841815c6cd0b",
+    "pageId": "685148d0230afff1af7aa5c3",
+    "solution": [
+    {
+      "stepIndex": 0,
+      "action": "cv_if_toy",
+      "fields": "airplane",
+      "input": {
+        "Do": {
+          "stepIndex": 1,
+          "action": "add_color",
+          "fields": "red"
+        }
+      },
+      "next": {
+        "stepIndex": 2,
+        "action": "cv_if_toy",
+        "fields": "car",
+        "input": {
+          "Do": {
+            "stepIndex": 3,
+            "action": "add_color",
+            "fields": "blue"
+          }
+        },
+        "next": {
+          "stepIndex": 4,
+          "action": "paint"
+        }
+      }
+    }
+  ],
+    "metadata": {
+      "difficulty": "easy",
+      "hintTemplate": "Try going up {n} times before turning right"
+    }
+  },
+  {
+    "_id": "68185a5664ee841815c6cd1c",
+    "gameId": "68185a3f64ee841815c6cd0b",
+    "pageId": "68514a83230afff1af7aa67c",
+    "solution": [
+    {
+      "stepIndex": 0,
+      "action": "cv_if_toy",
+      "fields": "rocket",
+      "input": {
+        "Do": {
+          "stepIndex": 1,
+          "action": "add_color",
+          "fields": "yellow"
+        }
+      },
+      "next": {
+        "stepIndex": 2,
+        "action": "cv_if_toy",
+        "fields": "car",
+        "input": {
+          "Do": {
+            "stepIndex": 3,
+            "action": "add_color",
+            "fields": "blue"
+          }
+        },
+        "next": {
+          "stepIndex": 4,
+          "action": "paint"
+        }
+      }
+    }
+  ],
+    "metadata": {
+      "difficulty": "easy",
+      "hintTemplate": "Try going up {n} times before turning right"
+    }
+  },
+  {
+    "_id": "68185a5664ee841815c6cd1c",
+    "gameId": "68185a3f64ee841815c6cd0b",
+    "pageId": "68514bc4230afff1af7aa715",
+    "solution": [
+    {
+      "stepIndex": 0,
+      "action": "cv_if_toy",
+      "fields": "train",
+      "input": {
+        "Do": {
+          "stepIndex": 1,
+          "action": "add_color",
+          "fields": "red"
+        }
+      },
+      "next": {
+        "stepIndex": 2,
+        "action": "cv_if_toy",
+        "fields": "rocket",
+        "input": {
+          "Do": {
+            "stepIndex": 3,
+            "action": "add_color",
+            "fields": "yellow"
+          }
+        },
+        "next": {
+          "stepIndex": 4,
+          "action": "paint"
+        }
+      }
+    }
+  ],
+    "metadata": {
+      "difficulty": "easy",
+      "hintTemplate": "Try going up {n} times before turning right"
+    }
+  }
+]

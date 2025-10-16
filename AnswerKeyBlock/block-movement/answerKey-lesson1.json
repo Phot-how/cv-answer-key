@@ -1,0 +1,172 @@
+[
+  {
+    "_id": "6763b0ddbd75fee874668ba1",
+    "gameId": "6763b0dabd75fee874668b1b",
+    "pageId": "6763b0dbbd75fee874668b38",
+    "solution": [
+    {
+      "stepIndex": 0,
+      "action": "move_forward",
+      "repeattime": 2
+    }
+  ],
+    "metadata": {
+      "difficulty": "easy",
+      "hintTemplate": "Try going up {n} times before turning right"
+    }
+  },
+  {
+    "_id": "6763b0ddbd75fee874668ba1",
+    "gameId": "6763b0dabd75fee874668b1b",
+    "pageId": "6763b0dbbd75fee874668b3b",
+    "solution": [
+    {
+      "stepIndex": 0,
+      "action": "move_forward",
+      "repeattime": 6
+    }
+  ],
+    "metadata": {
+      "difficulty": "easy",
+      "hintTemplate": "Try going up {n} times before turning right"
+    }
+  },
+  {
+    "_id": "6763b0ddbd75fee874668ba1",
+    "gameId": "6763b0dabd75fee874668b1b",
+    "pageId": "6763b0dbbd75fee874668b3e",
+    "solution": [
+    {
+      "stepIndex": 0,
+      "action": "move_forward",
+      "repeattime": 4
+    }
+  ],
+    "metadata": {
+      "difficulty": "easy",
+      "hintTemplate": "Try going up {n} times before turning right"
+    }
+  },
+  {
+    "_id": "6763b0ddbd75fee874668ba1",
+    "gameId": "6763b0dabd75fee874668b1b",
+    "pageId": "6763b0dbbd75fee874668b41",
+    "solution": [
+    {
+      "stepIndex": 0,
+      "action": "move_backward",
+      "repeattime": 2
+    }
+  ],
+    "metadata": {
+      "difficulty": "easy",
+      "hintTemplate": "Try going up {n} times before turning right"
+    }
+  },
+  {
+    "_id": "6763b0ddbd75fee874668ba1",
+    "gameId": "6763b0dabd75fee874668b1b",
+    "pageId": "6763b0dbbd75fee874668b44",
+    "solution": [
+    {
+      "stepIndex": 0,
+      "action": "move_backward",
+      "repeattime": 3
+    }
+  ],
+    "metadata": {
+      "difficulty": "easy",
+      "hintTemplate": "Try going up {n} times before turning right"
+    }
+  },
+  {
+    "_id": "6763b0ddbd75fee874668ba1",
+    "gameId": "6763b0dabd75fee874668b1b",
+    "pageId": "6763b0dbbd75fee874668b47",
+    "solution": [
+    {
+      "stepIndex": 0,
+      "action": "move_backward",
+      "repeattime": 3
+    }
+  ],
+    "metadata": {
+      "difficulty": "easy",
+      "hintTemplate": "Try going up {n} times before turning right"
+    }
+  },
+  {
+    "_id": "6763b0ddbd75fee874668ba1",
+    "gameId": "6763b0dabd75fee874668b1b",
+    "pageId": "6763b0dbbd75fee874668b4a",
+    "solution": [
+    {
+      "stepIndex": 0,
+      "action": "move_forward",
+      "repeattime": 3,
+      "next": {
+        "stepIndex": 1,
+        "action": "move_backward",
+        "repeattime": 7
+      }
+    }
+  ],
+    "metadata": {
+      "difficulty": "easy",
+      "hintTemplate": "Try going up {n} times before turning right"
+    }
+  },
+  {
+    "_id": "6763b0ddbd75fee874668ba1",
+    "gameId": "6763b0dabd75fee874668b1b",
+    "pageId": "6763b0dbbd75fee874668b4d",
+    "solution": [
+    {
+      "stepIndex": 0,
+      "action": "move_backward",
+      "repeattime": 2,
+      "next": {
+        "stepIndex": 1,
+        "action": "move_forward",
+        "repeattime": 7
+      }
+    }
+  ],
+    "metadata": {
+      "difficulty": "easy",
+      "hintTemplate": "Try going up {n} times before turning right"
+    }
+  },
+  {
+    "_id": "6763b0ddbd75fee874668ba1",
+    "gameId": "6763b0dabd75fee874668b1b",
+    "pageId": "6763b0dcbd75fee874668b50",
+    "solution": [
+    {
+      "stepIndex": 0,
+      "action": "move_forward",
+      "repeattime": 3
+    }
+  ],
+    "metadata": {
+      "difficulty": "easy",
+      "hintTemplate": "Try going up {n} times before turning right"
+    }
+  },
+  {
+    "_id": "6763b0ddbd75fee874668ba1",
+    "gameId": "6763b0dabd75fee874668b1b",
+    "pageId": "6763b0dcbd75fee874668b53",
+    "solution": [
+    {
+      "stepIndex": 0,
+      "action": "move_backward",
+      "repeattime": 4
+    }
+  ],
+    "metadata": {
+      "difficulty": "easy",
+      "hintTemplate": "Try going up {n} times before turning right"
+    }
+  }
+]

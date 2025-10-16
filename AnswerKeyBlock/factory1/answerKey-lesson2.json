@@ -1,0 +1,468 @@
+[
+  {
+    "_id": "68523cf3165e72bb7dc68262",
+    "gameId": "68185a3f64ee841815c6cd0b",
+    "pageId": "68523d0c165e72bb7dc68279",
+    "solution": [
+    {
+      "stepIndex": 0,
+      "action": "cv_if_toy",
+      "fields": "airplane",
+      "input": {
+        "Do": {
+          "stepIndex": 1,
+          "action": "add_color",
+          "fields": "red"
+        }
+      },
+      "next": {
+        "stepIndex": 2,
+        "action": "cv_if_toy",
+        "fields": "boat",
+        "input": {
+          "Do": {
+            "stepIndex": 3,
+            "action": "add_color",
+            "fields": "yellow"
+          }
+        },
+        "next": {
+          "stepIndex": 4,
+          "action": "paint"
+        }
+      }
+    }
+  ], 
+    "metadata": {
+      "difficulty": "easy",
+      "hintTemplate": "Try going up {n} times before turning right"
+    }
+  },
+  {
+    "_id": "68523cf3165e72bb7dc68262",
+    "gameId": "68185a3f64ee841815c6cd0b",
+    "pageId": "68523eb7165e72bb7dc68360",
+    "solution": [
+    {
+      "stepIndex": 0,
+      "action": "cv_if_toy",
+      "fields": "car",
+      "input": {
+        "Do": {
+          "stepIndex": 1,
+          "action": "add_color",
+          "fields": "blue"
+        }
+      },
+      "next": {
+        "stepIndex": 2,
+        "action": "cv_if_toy",
+        "fields": "train",
+        "input": {
+          "Do": {
+            "stepIndex": 3,
+            "action": "add_color",
+            "fields": "red"
+          }
+        },
+        "next": {
+          "stepIndex": 4,
+          "action": "paint"
+        }
+      }
+    }
+  ],
+    "metadata": {
+      "difficulty": "easy",
+      "hintTemplate": "Try going up {n} times before turning right"
+    }
+  },
+  {
+    "_id": "68523cf3165e72bb7dc68262",
+    "gameId": "68185a3f64ee841815c6cd0b",
+    "pageId": "68523ecb165e72bb7dc6837a",
+    "solution": [
+    {
+      "stepIndex": 0,
+      "action": "cv_if_toy",
+      "fields": "train",
+      "input": {
+        "Do": {
+          "stepIndex": 1,
+          "action": "add_color",
+          "fields": "red"
+        }
+      },
+      "next": {
+        "stepIndex": 2,
+        "action": "cv_if_toy",
+        "fields": "boat",
+        "input": {
+          "Do": {
+            "stepIndex": 3,
+            "action": "add_color",
+            "fields": "yellow"
+          }
+        },
+        "next": {
+          "stepIndex": 4,
+          "action": "paint"
+        }
+      }
+    }
+  ],
+    "metadata": {
+      "difficulty": "easy",
+      "hintTemplate": "Try going up {n} times before turning right"
+    }
+  },
+  {
+    "_id": "68523cf3165e72bb7dc68262",
+    "gameId": "68185a3f64ee841815c6cd0b",
+    "pageId": "68523edb165e72bb7dc68392",
+    "solution": [
+    {
+      "stepIndex": 0,
+      "action": "cv_if_toy",
+      "fields": "submarine",
+      "input": {
+        "Do": {
+          "stepIndex": 1,
+          "action": "add_color",
+          "fields": "yellow",
+          "next": {
+            "stepIndex": 2,
+            "action": "add_color",
+            "fields": "red"
+          }
+        }
+      },
+      "next": {
+        "stepIndex": 3,
+        "action": "cv_if_toy",
+        "fields": "car",
+        "input": {
+          "Do": {
+            "stepIndex": 4,
+            "action": "add_color",
+            "fields": "blue"
+          }
+        },
+        "next": {
+          "stepIndex": 5,
+          "action": "paint"
+        }
+      }
+    }
+  ],
+    "metadata": {
+      "difficulty": "easy",
+      "hintTemplate": "Try going up {n} times before turning right"
+    }
+  },
+  {
+    "_id": "68523cf3165e72bb7dc68262",
+    "gameId": "68185a3f64ee841815c6cd0b",
+    "pageId": "68523ee7165e72bb7dc683a8",
+    "solution": [
+    {
+      "stepIndex": 0,
+      "action": "cv_if_toy",
+      "fields": "truck",
+      "input": {
+        "Do": {
+          "stepIndex": 1,
+          "action": "add_color",
+          "fields": "blue",
+          "next": {
+            "stepIndex": 2,
+            "action": "add_color",
+            "fields": "red"
+          }
+        }
+      },
+      "next": {
+        "stepIndex": 3,
+        "action": "cv_if_toy",
+        "fields": "rocket",
+        "input": {
+          "Do": {
+            "stepIndex": 4,
+            "action": "add_color",
+            "fields": "yellow"
+          }
+        },
+        "next": {
+          "stepIndex": 5,
+          "action": "paint"
+        }
+      }
+    }
+  ],
+    "metadata": {
+      "difficulty": "easy",
+      "hintTemplate": "Try going up {n} times before turning right"
+    }
+  },
+  {
+    "_id": "68523cf3165e72bb7dc68262",
+    "gameId": "68185a3f64ee841815c6cd0b",
+    "pageId": "68523ef4165e72bb7dc683bd",
+    "solution": [
+    {
+      "stepIndex": 0,
+      "action": "cv_if_toy",
+      "fields": "robot",
+      "input": {
+        "Do": {
+          "stepIndex": 1,
+          "action": "add_color",
+          "fields": "yellow",
+          "next": {
+            "stepIndex": 2,
+            "action": "add_color",
+            "fields": "blue"
+          }
+        }
+      },
+      "next": {
+        "stepIndex": 3,
+        "action": "cv_if_toy",
+        "fields": "train",
+        "input": {
+          "Do": {
+            "stepIndex": 4,
+            "action": "add_color",
+            "fields": "red"
+          }
+        },
+        "next": {
+          "stepIndex": 5,
+          "action": "paint"
+        }
+      }
+    }
+  ],
+    "metadata": {
+      "difficulty": "easy",
+      "hintTemplate": "Try going up {n} times before turning right"
+    }
+  },
+  {
+    "_id": "68523cf3165e72bb7dc68262",
+    "gameId": "68185a3f64ee841815c6cd0b",
+    "pageId": "68523f02165e72bb7dc683d2",
+    "solution": [
+    {
+      "stepIndex": 0,
+      "action": "cv_if_toy",
+      "fields": "submarine",
+      "input": {
+        "Do": {
+          "stepIndex": 1,
+          "action": "add_color",
+          "fields": "yellow",
+          "next": {
+            "stepIndex": 2,
+            "action": "add_color",
+            "fields": "red"
+          }
+        }
+      },
+      "next": {
+        "stepIndex": 3,
+        "action": "cv_if_toy",
+        "fields": "ball",
+        "input": {
+          "Do": {
+            "stepIndex": 4,
+            "action": "add_color",
+            "fields": "blue"
+          }
+        },
+        "next": {
+          "stepIndex": 5,
+          "action": "paint"
+        }
+      }
+    }
+  ],
+    "metadata": {
+      "difficulty": "easy",
+      "hintTemplate": "Try going up {n} times before turning right"
+    }
+  },
+  {
+    "_id": "68523cf3165e72bb7dc68262",
+    "gameId": "68185a3f64ee841815c6cd0b",
+    "pageId": "68523f0f165e72bb7dc683e7",
+    "solution": [
+    {
+      "stepIndex": 0,
+      "action": "cv_if_toy",
+      "fields": "train",
+      "input": {
+        "Do": {
+          "stepIndex": 1,
+          "action": "add_color",
+          "fields": "red"
+        }
+      },
+      "next": {
+        "stepIndex": 2,
+        "action": "cv_if_toy",
+        "fields": "car",
+        "input": {
+          "Do": {
+            "stepIndex": 3,
+            "action": "add_color",
+            "fields": "blue"
+          }
+        },
+        "next": {
+          "stepIndex": 4,
+          "action": "cv_if_toy",
+          "fields": "rocket",
+          "input": {
+            "Do": {
+              "stepIndex": 5,
+              "action": "add_color",
+              "fields": "yellow"
+            }
+          },
+          "next": {
+            "stepIndex": 6,
+            "action": "paint"
+          }
+        }
+      }
+    }
+  ],
+    "metadata": {
+      "difficulty": "easy",
+      "hintTemplate": "Try going up {n} times before turning right"
+    }
+  },
+  {
+    "_id": "68523cf3165e72bb7dc68262",
+    "gameId": "68185a3f64ee841815c6cd0b",
+    "pageId": "68523f1e165e72bb7dc683f6",
+    "solution": [
+    {
+      "stepIndex": 0,
+      "action": "cv_if_toy",
+      "fields": "train",
+      "input": {
+        "Do": {
+          "stepIndex": 1,
+          "action": "add_color",
+          "fields": "red"
+        }
+      },
+      "next": {
+        "stepIndex": 2,
+        "action": "cv_if_toy",
+        "fields": "boat",
+        "input": {
+          "Do": {
+            "stepIndex": 3,
+            "action": "add_color",
+            "fields": "yellow"
+          }
+        },
+        "next": {
+          "stepIndex": 4,
+          "action": "cv_if_toy",
+          "fields": "submarine",
+          "input": {
+            "Do": {
+              "stepIndex": 5,
+              "action": "add_color",
+              "fields": "red",
+              "next": {
+                "stepIndex": 6,
+                "action": "add_color",
+                "fields": "yellow"
+              }
+            }
+          },
+          "next": {
+            "stepIndex": 7,
+            "action": "paint"
+          }
+        }
+      }
+    }
+  ],
+    "metadata": {
+      "difficulty": "easy",
+      "hintTemplate": "Try going up {n} times before turning right"
+    }
+  },
+  {
+    "_id": "68523cf3165e72bb7dc68262",
+    "gameId": "68185a3f64ee841815c6cd0b",
+    "pageId": "68523f2a165e72bb7dc68405",
+    "solution": [
+    {
+      "stepIndex": 0,
+      "action": "cv_if_toy",
+      "fields": "robot",
+      "input": {
+        "Do": {
+          "stepIndex": 1,
+          "action": "add_color",
+          "fields": "yellow",
+          "next": {
+            "stepIndex": 2,
+            "action": "add_color",
+            "fields": "blue"
+          }
+        }
+      },
+      "next": {
+        "stepIndex": 3,
+        "action": "cv_if_toy",
+        "fields": "submarine",
+        "input": {
+          "Do": {
+            "stepIndex": 4,
+            "action": "add_color",
+            "fields": "yellow",
+            "next": {
+              "stepIndex": 5,
+              "action": "add_color",
+              "fields": "red"
+            }
+          }
+        },
+        "next": {
+          "stepIndex": 6,
+          "action": "cv_if_toy",
+          "fields": "truck",
+          "input": {
+            "Do": {
+              "stepIndex": 7,
+              "action": "add_color",
+              "fields": "red",
+              "next": {
+                "stepIndex": 8,
+                "action": "add_color",
+                "fields": "blue"
+              }
+            }
+          },
+          "next": {
+            "stepIndex": 9,
+            "action": "paint"
+          }
+        }
+      }
+    }
+  ],
+    "metadata": {
+      "difficulty": "easy",
+      "hintTemplate": "Try going up {n} times before turning right"
+    }
+  }
+]
