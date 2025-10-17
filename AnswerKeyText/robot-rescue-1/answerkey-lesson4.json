@@ -1,0 +1,629 @@
+[
+  {
+    "_id": "66ffe6ccc4e1d0d11043beb9",
+    "gameId": "66ffe6c9c4e1d0d11043be02",
+    "pageId": "66ffe6cbc4e1d0d11043be8a",
+    "solution": [
+    {
+      "stepIndex": 0,
+      "action": "move_forward",
+      "repeattime": 2
+    },
+    {
+      "stepIndex": 1,
+      "action": "toggle"
+    },
+    {
+      "stepIndex": 2,
+      "action": "move_forward",
+      "repeattime": 4
+    },
+    {
+      "stepIndex": 3,
+      "action": "collect_tool"
+    },
+    {
+      "stepIndex": 4,
+      "action": "move_forward",
+      "repeattime": 2
+    },
+    {
+      "stepIndex": 5,
+      "action": "repair"
+    }
+  ],
+    "metadata": {
+      "difficulty": "easy",
+      "hintTemplate": "Try going up {n} times before turning right"
+    }
+  },
+  {
+    "_id": "66ffe6ccc4e1d0d11043beb9",
+    "gameId": "66ffe6c9c4e1d0d11043be02",
+    "pageId": "66ffe6cbc4e1d0d11043be8d",
+    "solution": [
+    {
+      "stepIndex": 0,
+      "action": "move_forward",
+      "repeattime": 3
+    },
+    {
+      "stepIndex": 1,
+      "action": "toggle"
+    },
+    {
+      "stepIndex": 2,
+      "action": "move_forward",
+      "repeattime": 2
+    },
+    {
+      "stepIndex": 3,
+      "action": "turn_left"
+    },
+    {
+      "stepIndex": 4,
+      "action": "move_forward",
+      "repeattime": 1
+    },
+    {
+      "stepIndex": 5,
+      "action": "collect_battery"
+    },
+    {
+      "stepIndex": 6,
+      "action": "move_forward",
+      "repeattime": 3
+    },
+    {
+      "stepIndex": 7,
+      "action": "charge"
+    }
+  ],
+    "metadata": {
+      "difficulty": "easy",
+      "hintTemplate": "Try going up {n} times before turning right"
+    }
+  },
+  {
+    "_id": "66ffe6ccc4e1d0d11043beb9",
+    "gameId": "66ffe6c9c4e1d0d11043be02",
+    "pageId": "66ffe6cbc4e1d0d11043be91",
+    "solution":[
+    {
+      "stepIndex": 0,
+      "action": "move_forward",
+      "repeattime": 2
+    },
+    {
+      "stepIndex": 1,
+      "action": "toggle"
+    },
+    {
+      "stepIndex": 2,
+      "action": "move_forward",
+      "repeattime": 4
+    },
+    {
+      "stepIndex": 3,
+      "action": "collect_battery"
+    },
+    {
+      "stepIndex": 4,
+      "action": "turn_right"
+    },
+    {
+      "stepIndex": 5,
+      "action": "move_forward",
+      "repeattime": 2
+    },
+    {
+      "stepIndex": 6,
+      "action": "charge"
+    }
+  ],
+    "metadata": {
+      "difficulty": "easy",
+      "hintTemplate": "Try going up {n} times before turning right"
+    }
+  },
+  {
+    "_id": "66ffe6ccc4e1d0d11043beb9",
+    "gameId": "66ffe6c9c4e1d0d11043be02",
+    "pageId": "66ffe6cbc4e1d0d11043be94",
+    "solution": [
+    {
+      "stepIndex": 0,
+      "action": "move_forward",
+      "repeattime": 3
+    },
+    {
+      "stepIndex": 1,
+      "action": "collect_battery"
+    },
+    {
+      "stepIndex": 2,
+      "action": "turn_left"
+    },
+    {
+      "stepIndex": 3,
+      "action": "move_forward",
+      "repeattime": 4
+    },
+    {
+      "stepIndex": 4,
+      "action": "toggle"
+    },
+    {
+      "stepIndex": 5,
+      "action": "turn_right"
+    },
+    {
+      "stepIndex": 6,
+      "action": "move_forward",
+      "repeattime": 3
+    },
+    {
+      "stepIndex": 7,
+      "action": "turn_left"
+    },
+    {
+      "stepIndex": 8,
+      "action": "move_forward",
+      "repeattime": 2
+    },
+    {
+      "stepIndex": 9,
+      "action": "charge"
+    }
+  ],
+    "metadata": {
+      "difficulty": "easy",
+      "hintTemplate": "Try going up {n} times before turning right"
+    }
+  },
+  {
+    "_id": "66ffe6ccc4e1d0d11043beb9",
+    "gameId": "66ffe6c9c4e1d0d11043be02",
+    "pageId": "66ffe6cbc4e1d0d11043be97",
+    "solution": [
+    {
+      "stepIndex": 0,
+      "action": "move_forward",
+      "repeattime": 2
+    },
+    {
+      "stepIndex": 1,
+      "action": "toggle"
+    },
+    {
+      "stepIndex": 2,
+      "action": "move_forward",
+      "repeattime": 3
+    },
+    {
+      "stepIndex": 3,
+      "action": "toggle"
+    },
+    {
+      "stepIndex": 4,
+      "action": "move_forward",
+      "repeattime": 4
+    },
+    {
+      "stepIndex": 5,
+      "action": "collect_battery"
+    },
+    {
+      "stepIndex": 6,
+      "action": "turn_right"
+    },
+    {
+      "stepIndex": 7,
+      "action": "move_forward",
+      "repeattime": 4
+    },
+    {
+      "stepIndex": 8,
+      "action": "turn_right"
+    },
+    {
+      "stepIndex": 9,
+      "action": "move_forward",
+      "repeattime": 4
+    },
+    {
+      "stepIndex": 10,
+      "action": "turn_right"
+    },
+    {
+      "stepIndex": 11,
+      "action": "move_forward",
+      "repeattime": 2
+    },
+    {
+      "stepIndex": 12,
+      "action": "charge"
+    }
+  ],
+    "metadata": {
+      "difficulty": "easy",
+      "hintTemplate": "Try going up {n} times before turning right"
+    }
+  },
+  {
+    "_id": "66ffe6ccc4e1d0d11043beb9",
+    "gameId": "66ffe6c9c4e1d0d11043be02",
+    "pageId": "66ffe6cbc4e1d0d11043be9a",
+    "solution": [
+    {
+      "stepIndex": 0,
+      "action": "move_forward",
+      "repeattime": 1
+    },
+    {
+      "stepIndex": 1,
+      "action": "toggle"
+    },
+    {
+      "stepIndex": 2,
+      "action": "move_forward",
+      "repeattime": 4
+    },
+    {
+      "stepIndex": 3,
+      "action": "collect_tool"
+    },
+    {
+      "stepIndex": 4,
+      "action": "turn_left"
+    },
+    {
+      "stepIndex": 5,
+      "action": "move_forward",
+      "repeattime": 1
+    },
+    {
+      "stepIndex": 6,
+      "action": "toggle"
+    },
+    {
+      "stepIndex": 7,
+      "action": "move_forward",
+      "repeattime": 3
+    },
+    {
+      "stepIndex": 8,
+      "action": "turn_right"
+    },
+    {
+      "stepIndex": 9,
+      "action": "move_forward",
+      "repeattime": 1
+    },
+    {
+      "stepIndex": 10,
+      "action": "repair"
+    }
+  ],
+    "metadata": {
+      "difficulty": "easy",
+      "hintTemplate": "Try going up {n} times before turning right"
+    }
+  },
+  {
+    "_id": "66ffe6ccc4e1d0d11043beb9",
+    "gameId": "66ffe6c9c4e1d0d11043be02",
+    "pageId": "66ffe6cbc4e1d0d11043be9d",
+    "solution": [
+    {
+      "stepIndex": 0,
+      "action": "move_forward",
+      "repeattime": 4
+    },
+    {
+      "stepIndex": 1,
+      "action": "collect_battery"
+    },
+    {
+      "stepIndex": 2,
+      "action": "turn_left"
+    },
+    {
+      "stepIndex": 3,
+      "action": "move_forward",
+      "repeattime": 3
+    },
+    {
+      "stepIndex": 4,
+      "action": "collect_tool"
+    },
+    {
+      "stepIndex": 5,
+      "action": "move_forward",
+      "repeattime": 3
+    },
+    {
+      "stepIndex": 6,
+      "action": "charge"
+    },
+    {
+      "stepIndex": 7,
+      "action": "turn_left"
+    },
+    {
+      "stepIndex": 8,
+      "action": "move_forward",
+      "repeattime": 2
+    },
+    {
+      "stepIndex": 9,
+      "action": "toggle"
+    },
+    {
+      "stepIndex": 10,
+      "action": "move_forward",
+      "repeattime": 3
+    },
+    {
+      "stepIndex": 11,
+      "action": "turn_right"
+    },
+    {
+      "stepIndex": 12,
+      "action": "move_forward",
+      "repeattime": 1
+    },
+    {
+      "stepIndex": 13,
+      "action": "repair"
+    }
+  ],
+    "metadata": {
+      "difficulty": "easy",
+      "hintTemplate": "Try going up {n} times before turning right"
+    }
+  },
+  {
+    "_id": "66ffe6ccc4e1d0d11043beb9",
+    "gameId": "66ffe6c9c4e1d0d11043be02",
+    "pageId": "66ffe6ccc4e1d0d11043bea0",
+    "solution": [
+    {
+      "stepIndex": 0,
+      "action": "move_forward",
+      "repeattime": 1
+    },
+    {
+      "stepIndex": 1,
+      "action": "toggle"
+    },
+    {
+      "stepIndex": 2,
+      "action": "move_forward",
+      "repeattime": 6
+    },
+    {
+      "stepIndex": 3,
+      "action": "collect_tool"
+    },
+    {
+      "stepIndex": 4,
+      "action": "move_backward",
+      "repeattime": 3
+    },
+    {
+      "stepIndex": 5,
+      "action": "repair"
+    },
+    {
+      "stepIndex": 6,
+      "action": "turn_right"
+    },
+    {
+      "stepIndex": 7,
+      "action": "move_forward",
+      "repeattime": 5
+    },
+    {
+      "stepIndex": 8,
+      "action": "collect_battery"
+    },
+    {
+      "stepIndex": 9,
+      "action": "turn_left"
+    },
+    {
+      "stepIndex": 10,
+      "action": "move_forward",
+      "repeattime": 3
+    },
+    {
+      "stepIndex": 11,
+      "action": "turn_left"
+    },
+    {
+      "stepIndex": 12,
+      "action": "move_forward",
+      "repeattime": 2
+    },
+    {
+      "stepIndex": 13,
+      "action": "charge"
+    }
+  ],
+    "metadata": {
+      "difficulty": "easy",
+      "hintTemplate": "Try going up {n} times before turning right"
+    }
+  },
+  {
+    "_id": "66ffe6ccc4e1d0d11043beb9",
+    "gameId": "66ffe6c9c4e1d0d11043be02",
+    "pageId": "66ffe6ccc4e1d0d11043bea3",
+    "solution": [
+    {
+      "stepIndex": 0,
+      "action": "move_forward",
+      "repeattime": 5
+    },
+    {
+      "stepIndex": 1,
+      "action": "move_backward",
+      "repeattime": 1
+    },
+    {
+      "stepIndex": 2,
+      "action": "collect_tool"
+    },
+    {
+      "stepIndex": 3,
+      "action": "move_backward",
+      "repeattime": 2
+    },
+    {
+      "stepIndex": 4,
+      "action": "collect_battery"
+    },
+    {
+      "stepIndex": 5,
+      "action": "turn_right"
+    },
+    {
+      "stepIndex": 6,
+      "action": "move_forward",
+      "repeattime": 3
+    },
+    {
+      "stepIndex": 7,
+      "action": "toggle"
+    },
+    {
+      "stepIndex": 8,
+      "action": "move_forward",
+      "repeattime": 4
+    },
+    {
+      "stepIndex": 9,
+      "action": "turn_left"
+    },
+    {
+      "stepIndex": 10,
+      "action": "move_backward",
+      "repeattime": 1
+    },
+    {
+      "stepIndex": 11,
+      "action": "repair"
+    },
+    {
+      "stepIndex": 12,
+      "action": "move_forward",
+      "repeattime": 2
+    },
+    {
+      "stepIndex": 13,
+      "action": "toggle"
+    },
+    {
+      "stepIndex": 14,
+      "action": "move_forward",
+      "repeattime": 3
+    },
+    {
+      "stepIndex": 15,
+      "action": "charge"
+    }
+  ],
+    "metadata": {
+      "difficulty": "easy",
+      "hintTemplate": "Try going up {n} times before turning right"
+    }
+  },
+  {
+    "_id": "66ffe6ccc4e1d0d11043beb9",
+    "gameId": "66ffe6c9c4e1d0d11043be02",
+    "pageId": "66ffe6ccc4e1d0d11043bea6",
+    "solution": [
+    {
+      "stepIndex": 0,
+      "action": "move_forward",
+      "repeattime": 5
+    },
+    {
+      "stepIndex": 1,
+      "action": "collect_battery"
+    },
+    {
+      "stepIndex": 2,
+      "action": "move_backward",
+      "repeattime": 2
+    },
+    {
+      "stepIndex": 3,
+      "action": "toggle"
+    },
+    {
+      "stepIndex": 4,
+      "action": "turn_right"
+    },
+    {
+      "stepIndex": 5,
+      "action": "move_forward",
+      "repeattime": 4
+    },
+    {
+      "stepIndex": 6,
+      "action": "toggle"
+    },
+    {
+      "stepIndex": 7,
+      "action": "move_forward",
+      "repeattime": 3
+    },
+    {
+      "stepIndex": 8,
+      "action": "turn_left"
+    },
+    {
+      "stepIndex": 9,
+      "action": "move_forward",
+      "repeattime": 2
+    },
+    {
+      "stepIndex": 10,
+      "action": "collect_tool"
+    },
+    {
+      "stepIndex": 11,
+      "action": "move_backward",
+      "repeattime": 2
+    },
+    {
+      "stepIndex": 12,
+      "action": "repair"
+    },
+    {
+      "stepIndex": 13,
+      "action": "move_backward",
+      "repeattime": 4
+    },
+    {
+      "stepIndex": 14,
+      "action": "turn_left"
+    },
+    {
+      "stepIndex": 15,
+      "action": "move_forward",
+      "repeattime": 3
+    },
+    {
+      "stepIndex": 16,
+      "action": "charge"
+    }
+  ],
+    "metadata": {
+      "difficulty": "easy",
+      "hintTemplate": "Try going up {n} times before turning right"
+    }
+  }
+]
