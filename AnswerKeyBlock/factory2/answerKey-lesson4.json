@@ -1,0 +1,514 @@
+[
+  {
+    "_id": "685d2cd0daddb4f779f1fa58",
+    "gameId": "683d427eb4bc0180c5233c1d",
+    "pageId": "685d2d94daddb4f779f1fa7c",
+    "solution": [
+    {
+      "stepIndex": 0,
+      "action": "cv_if_else",
+      "input": {
+        "CONDITION": {
+          "stepIndex": 1,
+          "action": "condition_toys",
+          "fields": "submarine"
+        },
+        "DO": {
+          "stepIndex": 2,
+          "action": "send_to_box",
+          "fields": "1"
+        },
+        "ELSE": {
+          "stepIndex": 3,
+          "action": "send_to_box",
+          "fields": "2"
+        }
+      }
+    }
+  ], 
+    "metadata": {
+      "difficulty": "easy",
+      "hintTemplate": "Try going up {n} times before turning right"
+    }
+  },
+  {
+    "_id": "685d2cd0daddb4f779f1fa58",
+    "gameId": "683d427eb4bc0180c5233c1d",
+    "pageId": "685d2dafdaddb4f779f1fa8f",
+    "solution": [
+    {
+      "stepIndex": 0,
+      "action": "cv_if_else",
+      "input": {
+        "CONDITION": {
+          "stepIndex": 1,
+          "action": "logic_or",
+          "input": {
+            "A": {
+              "stepIndex": 2,
+              "action": "condition_toys",
+              "fields": "airplane"
+            },
+            "B": {
+              "stepIndex": 3,
+              "action": "condition_toys",
+              "fields": "rocket"
+            }
+          }
+        },
+        "DO": {
+          "stepIndex": 4,
+          "action": "send_to_box",
+          "fields": "1"
+        },
+        "ELSE": {
+          "stepIndex": 5,
+          "action": "send_to_box",
+          "fields": "2"
+        }
+      }
+    }
+  ],
+    "metadata": {
+      "difficulty": "easy",
+      "hintTemplate": "Try going up {n} times before turning right"
+    }
+  },
+  {
+    "_id": "685d2cd0daddb4f779f1fa58",
+    "gameId": "683d427eb4bc0180c5233c1d",
+    "pageId": "685d2eacdaddb4f779f1fada",
+    "solution": [
+    {
+      "stepIndex": 0,
+      "action": "cv_if_else",
+      "input": {
+        "CONDITION": {
+          "stepIndex": 1,
+          "action": "logic_or",
+          "input": {
+            "A": {
+              "stepIndex": 2,
+              "action": "condition_toys",
+              "fields": "house"
+            },
+            "B": {
+              "stepIndex": 3,
+              "action": "condition_color",
+              "fields": "blue"
+            }
+          }
+        },
+        "DO": {
+          "stepIndex": 4,
+          "action": "send_to_box",
+          "fields": "1"
+        },
+        "ELSE": {
+          "stepIndex": 5,
+          "action": "send_to_box",
+          "fields": "2"
+        }
+      }
+    }
+  ],
+    "metadata": {
+      "difficulty": "easy",
+      "hintTemplate": "Try going up {n} times before turning right"
+    }
+  },
+  {
+    "_id": "685d2cd0daddb4f779f1fa58",
+    "gameId": "683d427eb4bc0180c5233c1d",
+    "pageId": "685d3064daddb4f779f1fb4a",
+    "solution": [
+    {
+      "stepIndex": 0,
+      "action": "cv_if_else",
+      "input": {
+        "CONDITION": {
+          "stepIndex": 1,
+          "action": "logic_or",
+          "input": {
+            "A": {
+              "stepIndex": 2,
+              "action": "condition_color",
+              "fields": "yellow"
+            },
+            "B": {
+              "stepIndex": 3,
+              "action": "logic_and",
+              "input": {
+                "A": {
+                  "stepIndex": 4,
+                  "action": "condition_toys",
+                  "fields": "car"
+                },
+                "B": {
+                  "stepIndex": 5,
+                  "action": "condition_color",
+                  "fields": "green"
+                }
+              }
+            }
+          }
+        },
+        "DO": {
+          "stepIndex": 6,
+          "action": "send_to_box",
+          "fields": "2"
+        },
+        "ELSE": {
+          "stepIndex": 7,
+          "action": "send_to_box",
+          "fields": "1"
+        }
+      }
+    }
+  ],
+    "metadata": {
+      "difficulty": "easy",
+      "hintTemplate": "Try going up {n} times before turning right"
+    }
+  },
+  {
+    "_id": "685d2cd0daddb4f779f1fa58",
+    "gameId": "683d427eb4bc0180c5233c1d",
+    "pageId": "685d32a5daddb4f779f1fbc7",
+    "solution": [
+    {
+      "stepIndex": 0,
+      "action": "cv_if_else",
+      "input": {
+        "CONDITION": {
+          "stepIndex": 1,
+          "action": "logic_or",
+          "input": {
+            "A": {
+              "stepIndex": 2,
+              "action": "condition_color",
+              "fields": "red"
+            },
+            "B": {
+              "stepIndex": 3,
+              "action": "logic_and",
+              "input": {
+                "A": {
+                  "stepIndex": 4,
+                  "action": "condition_toys",
+                  "fields": "car"
+                },
+                "B": {
+                  "stepIndex": 5,
+                  "action": "condition_color",
+                  "fields": "orange"
+                }
+              }
+            }
+          }
+        },
+        "DO": {
+          "stepIndex": 6,
+          "action": "send_to_box",
+          "fields": "2"
+        },
+        "ELSE": {
+          "stepIndex": 7,
+          "action": "send_to_box",
+          "fields": "1"
+        }
+      }
+    }
+  ],
+    "metadata": {
+      "difficulty": "easy",
+      "hintTemplate": "Try going up {n} times before turning right"
+    }
+  },
+  {
+    "_id": "685d2cd0daddb4f779f1fa58",
+    "gameId": "683d427eb4bc0180c5233c1d",
+    "pageId": "685d2f0adaddb4f779f1fae8",
+    "solution": [
+    {
+      "stepIndex": 0,
+      "action": "cv_if_else",
+      "input": {
+        "CONDITION": {
+          "stepIndex": 1,
+          "action": "condition_toys",
+          "fields": "airplane"
+        },
+        "DO": {
+          "stepIndex": 2,
+          "action": "send_to_box",
+          "fields": "1"
+        },
+        "ELSE": {
+          "stepIndex": 3,
+          "action": "cv_if",
+          "input": {
+            "CONDITION": {
+              "stepIndex": 4,
+              "action": "logic_or",
+              "input": {
+                "A": {
+                  "stepIndex": 5,
+                  "action": "condition_color",
+                  "fields": "green"
+                },
+                "B": {
+                  "stepIndex": 6,
+                  "action": "condition_toys",
+                  "fields": "car"
+                }
+              }
+            },
+            "DO": {
+              "stepIndex": 7,
+              "action": "send_to_box",
+              "fields": "2"
+            }
+          }
+        }
+      }
+    }
+  ],
+    "metadata": {
+      "difficulty": "easy",
+      "hintTemplate": "Try going up {n} times before turning right"
+    }
+  },
+  {
+    "_id": "685d2cd0daddb4f779f1fa58",
+    "gameId": "683d427eb4bc0180c5233c1d",
+    "pageId": "685d300cdaddb4f779f1fb30",
+    "solution": [
+    {
+      "stepIndex": 0,
+      "action": "cv_if_else",
+      "input": {
+        "CONDITION": {
+          "stepIndex": 1,
+          "action": "logic_and",
+          "input": {
+            "A": {
+              "stepIndex": 2,
+              "action": "condition_toys",
+              "fields": "airplane"
+            },
+            "B": {
+              "stepIndex": 3,
+              "action": "condition_color",
+              "fields": "yellow"
+            }
+          }
+        },
+        "DO": {
+          "stepIndex": 4,
+          "action": "send_to_box",
+          "fields": "1"
+        },
+        "ELSE": {
+          "stepIndex": 5,
+          "action": "cv_if_else",
+          "input": {
+            "CONDITION": {
+              "stepIndex": 6,
+              "action": "condition_toys",
+              "fields": "airplane"
+            },
+            "DO": {
+              "stepIndex": 7,
+              "action": "send_to_box",
+              "fields": "2"
+            },
+            "ELSE": {
+              "stepIndex": 8,
+              "action": "send_to_box",
+              "fields": "3"
+            }
+          }
+        }
+      }
+    }
+  ],
+    "metadata": {
+      "difficulty": "easy",
+      "hintTemplate": "Try going up {n} times before turning right"
+    }
+  },
+  {
+    "_id": "685d2cd0daddb4f779f1fa58",
+    "gameId": "683d427eb4bc0180c5233c1d",
+    "pageId": "685d3312daddb4f779f1fbe9",
+    "solution": [
+    {
+      "stepIndex": 0,"action": "cv_if_else",
+      "input": {
+        "CONDITION": {
+          "stepIndex": 1,"action": "logic_or",
+          "input": {
+            "A": {
+              "stepIndex": 2,"action": "condition_color","fields": "red"
+            },
+            "B": {
+              "stepIndex": 3,"action": "condition_color", "fields": "blue"
+            }
+          }
+        },
+        "DO": {
+          "stepIndex": 4,"action": "send_to_box","fields": "1"
+        },
+        "ELSE": {
+          "stepIndex": 5,"action": "cv_if_else",
+          "input": {
+            "CONDITION": {
+              "stepIndex": 6,"action": "condition_color","fields": "green"
+            },
+            "DO": {
+              "stepIndex": 7,"action": "send_to_box","fields": "2"
+            },
+            "ELSE": {
+              "stepIndex": 8,"action": "send_to_box","fields": "3"
+            }
+          }
+        }
+      }
+    }
+  ],
+    "metadata": {
+      "difficulty": "easy",
+      "hintTemplate": "Try going up {n} times before turning right"
+    }
+  },
+  {
+    "_id": "685d2cd0daddb4f779f1fa58",
+    "gameId": "683d427eb4bc0180c5233c1d",
+    "pageId": "685d2fbddaddb4f779f1fb13",
+    "solution": [
+    {
+      "stepIndex": 0,
+      "action": "cv_if_else",
+      "input": {
+        "CONDITION": {
+          "stepIndex": 1,
+          "action": "logic_or",
+          "input": {
+            "A": {
+              "stepIndex": 2,
+              "action": "condition_toys",
+              "fields": "ball"
+            },
+            "B": {
+              "stepIndex": 3,
+              "action": "condition_toys",
+              "fields": "house"
+            }
+          }
+        },
+        "DO": {
+          "stepIndex": 4,
+          "action": "send_to_box",
+          "fields": "1"
+        },
+        "ELSE": {
+          "stepIndex": 5,
+          "action": "cv_if_else",
+          "input": {
+            "CONDITION": {
+              "stepIndex": 6,
+              "action": "logic_or",
+              "input": {
+                "A": {
+                  "stepIndex": 7,
+                  "action": "condition_toys",
+                  "fields": "train"
+                },
+                "B": {
+                  "stepIndex": 8,
+                  "action": "condition_color",
+                  "fields": "green"
+                }
+              }
+            },
+            "DO": {
+              "stepIndex": 9,
+              "action": "send_to_box",
+              "fields": "3"
+            },
+            "ELSE": {
+              "stepIndex": 10,
+              "action": "send_to_box",
+              "fields": "2"
+            }
+          }
+        }
+      }
+    }
+  ],
+    "metadata": {
+      "difficulty": "easy",
+      "hintTemplate": "Try going up {n} times before turning right"
+    }
+  },
+  {
+    "_id": "685d2cd0daddb4f779f1fa58",
+    "gameId": "683d427eb4bc0180c5233c1d",
+    "pageId": "685d2f58daddb4f779f1faf8",
+    "solution": [
+    {
+      "stepIndex": 0,
+      "action": "cv_if_else",
+      "input": {
+        "CONDITION": {
+          "stepIndex": 1,
+          "action": "logic_or",
+          "input": {
+            "A": {
+              "stepIndex": 2,
+              "action": "condition_color",
+              "fields": "yellow"
+            },
+            "B": {
+              "stepIndex": 3,
+              "action": "condition_color",
+              "fields": "purple"
+            }
+          }
+        },
+        "DO": {
+          "stepIndex": 4,
+          "action": "send_to_box",
+          "fields": "1"
+        },
+        "ELSE": {
+          "stepIndex": 5,
+          "action": "cv_if_else",
+          "input": {
+            "CONDITION": {
+              "stepIndex": 6,
+              "action": "condition_toys",
+              "fields": "truck"
+            },
+            "DO": {
+              "stepIndex": 7,
+              "action": "send_to_box",
+              "fields": "2"
+            },
+            "ELSE": {
+              "stepIndex": 8,
+              "action": "send_to_box",
+              "fields": "3"
+            }
+          }
+        }
+      }
+    }
+  ],
+    "metadata": {
+      "difficulty": "easy",
+      "hintTemplate": "Try going up {n} times before turning right"
+    }
+  }
+]
